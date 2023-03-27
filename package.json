@@ -1,0 +1,24 @@
+{
+  "name": "node_encryption_prac_23.03.27",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KwakYounHo/Node_encryption_prac_23.03.27.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KwakYounHo/Node_encryption_prac_23.03.27/issues"
+  },
+  "homepage": "https://github.com/KwakYounHo/Node_encryption_prac_23.03.27#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "mysql2": "^3.2.0"
+  }
+}
